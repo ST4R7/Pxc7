@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/tqX1xmn/20210326-134340.jpg/" width=750 height="350" align="center">
 <center>
 
-# My Info <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
+# Friend? <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
 * [`WhatsApp`](http://wa.me/62895418200111)
 * [`Youtube`](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
 * [`Instagram`](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
