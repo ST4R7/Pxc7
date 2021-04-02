@@ -9,7 +9,7 @@
 
 
 
-## Donasi
+## Donasi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 Donasi:
 ```cmd
 >PULSA
