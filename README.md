@@ -1,3 +1,6 @@
+## HANYA ORANG BIASA:)
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="150px">
+
 ### Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
 <img src="https://i.ibb.co/tqX1xmn/20210326-134340.jpg/" width=750 height="350" align="center">
 <center>
