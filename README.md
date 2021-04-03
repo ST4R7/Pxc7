@@ -17,6 +17,7 @@
 <div align="center">
 # Friend? <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
 </div>
+
 * [`WhatsApp`](http://wa.me/62895418200111)
 * [`Youtube`](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
 * [`Instagram`](https://youtube.com/channel/UC85BV5PuFNdhEF1JIR6mKjw)
@@ -25,6 +26,7 @@
 <div align="center">
 ## Donasi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 </div>
+
 Donasi:
 ```cmd
 >PULSA
