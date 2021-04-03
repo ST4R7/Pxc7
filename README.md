@@ -5,6 +5,8 @@
 ### Hello ~ I'm Pxc7<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
 <img src="https://i.ibb.co/tqX1xmn/20210326-134340.jpg/" width=750 height="350" align="center">
 <center>
+<a href="https://github.com/Pxc7"><img title="Author" src="https://img.shields.io/badge/WHO-GAY-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
 
 # Friend? <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
 * [`WhatsApp`](http://wa.me/62895418200111)
