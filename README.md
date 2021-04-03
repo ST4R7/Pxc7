@@ -7,7 +7,7 @@
 <center>
 
 <p align="center">
-<a href="https://github.com/Pxc7/LoL-Bot/followers"><img title="Pengikut" src="https://img.shields.io/github/follower/Pxc7?color=blue&style=flat-square"></a>
+<a href="https://github.com/Pxc7/LoL-Bot/followers"><img title="Pengikut" src="https://img.shields.io/github/followers/Pxc7?color=blue&style=flat-square"></a>
 <a href="https://github.com/Pxc7/LoL-Bot/network/members"><img title="Forksnya" src="https://img.shields.io/github/forks/Pxc7/LoL-Bot?color=red&style=flat-square"></a>
 <a href="https://github.com/Arnando456/Rem/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Pxc7/LoL-Bot?label=Watchers&color=red&style=flat-square"></a>
 </p>
