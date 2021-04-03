@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-# _**Friend?**_ <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
+Friend?<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="70px">
 </div>
 
 * [`WhatsApp`](http://wa.me/62895418200111)
@@ -24,7 +24,7 @@
 
 
 <div align="center">
-# _**Donasi**_ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+ #_**Donasi**_ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 </div>
 
 Donasi:
