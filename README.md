@@ -26,6 +26,6 @@ Donasi:
 •0814622392081
 ```
 
-<img src="https://i.ibb.co/xF2jSBw/IMG-20210328-WA0746.png" width=350 height="350" align="center">
+<img src="https://i.ibb.co/xF2jSBw/IMG-20210328-WA0746.png" width=200 height="150" align="center">
 <center>
 
